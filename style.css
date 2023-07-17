@@ -217,6 +217,23 @@ main{
 .team-image{
     width: 100%;
 }
+.btn{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.bottom-btn{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 40px;
+}
+.first-btn-title{
+    color: #FFF;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 70px;
+}
 /* apply media queries */
 /* @media screen and (max-width:392px) {
     header{
